@@ -80,7 +80,8 @@ Ekran rysowania fraktala zawiera następujące pola:
 * Dolny brzeg wykresu, domyślnie -2.
 * Pola na część rzeczywistą i urojoną liczby, przez którą jest mnożony cały
   wykres, jeśli jedno pole jest puste lub zawiera nieprawidłową liczbę jest
-  zastępowane przez 0. Jeśli oba są puste, czynnik jest równy 1. Jeśli program
+  zastępowane przez 0. Jeśli oba są puste, czynnik jest równy 1.
+* Jeśli program
   jest w trakcie pracy, tło menu jest brązowe, w przeciwnym wypadku jest zielone.
 
 ## Działanko
