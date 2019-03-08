@@ -17,7 +17,7 @@ Ten program był zrobiony w styczniu 2017 na projekt z PRI.
 
 ## xd
 
-W programie jest font Ubuntu. [Stronka][https://design.ubuntu.com/font/]
+W programie jest font Ubuntu. [Stronka](https://design.ubuntu.com/font/)
 
 ## Sposób użycia
 
@@ -68,10 +68,10 @@ Ekran rysowania fraktala zawiera następujące pola:
 * Prawy brzeg, domyślnie 2.
 * Dolny brzeg, domyślnie -2.
 * Największa ilość powtórzeń funkcji.Ekran rysowania wykresu funkcji wymiernej
-ma następujące pola:
+  ma następujące pola:
 * Sposób kolorowania wykresu.
 * Zbiór pierwiastków wielomianu w liczniku. Są to pary liczb rzeczywistych,
-z których tworzone są liczby urojone. Liczby należy oddzielać spacjami.
+  z których tworzone są liczby urojone. Liczby należy oddzielać spacjami.
 * Zbiór pierwiastków wielomianu w mianowniku. Trzeba je wypełniać tak jak pole
   powyżej.
 * Górny brzeg wykresu, domyślnie 2.
@@ -79,9 +79,9 @@ z których tworzone są liczby urojone. Liczby należy oddzielać spacjami.
 * Prawy brzeg wykresu, domyślnie 2.
 * Dolny brzeg wykresu, domyślnie -2.
 * Pola na część rzeczywistą i urojoną liczby, przez którą jest mnożony cały
-wykres, jeśli jedno pole jest puste lub zawiera nieprawidłową liczbę jest
-zastępowane przez 0. Jeśli oba są puste, czynnik jest równy 1. Jeśli program
-jest w trakcie pracy, tło menu jest brązowe, w przeciwnym wypadku jest zielone.
+  wykres, jeśli jedno pole jest puste lub zawiera nieprawidłową liczbę jest
+  zastępowane przez 0. Jeśli oba są puste, czynnik jest równy 1. Jeśli program
+  jest w trakcie pracy, tło menu jest brązowe, w przeciwnym wypadku jest zielone.
 
 ## Działanko
 
