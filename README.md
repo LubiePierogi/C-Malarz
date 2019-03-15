@@ -9,7 +9,7 @@ Ten program był zrobiony w styczniu 2017 na projekt z PRI.
 * gcc
 * OpenGL 2
 * GLEW
-* SDL
+* SDL 2
 * Freetype 2
 
 ## Kompilowanko:
