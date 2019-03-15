@@ -67,8 +67,9 @@ Ekran rysowania fraktala zawiera następujące pola:
 * Lewy brzeg obrazu, domyślnie -2.
 * Prawy brzeg, domyślnie 2.
 * Dolny brzeg, domyślnie -2.
-* Największa ilość powtórzeń funkcji.Ekran rysowania wykresu funkcji wymiernej
-  ma następujące pola:
+* Największa ilość powtórzeń funkcji.
+
+Ekran rysowania wykresu funkcji wymiernej ma następujące pola:
 * Sposób kolorowania wykresu.
 * Zbiór pierwiastków wielomianu w liczniku. Są to pary liczb rzeczywistych,
   z których tworzone są liczby urojone. Liczby należy oddzielać spacjami.
