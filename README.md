@@ -1,5 +1,5 @@
 # C-Malarz
-Program do robienia obrazkóœ zrobiony w C.
+Program do robienia obrazków zrobiony w C.
 
 Ten program był zrobiony w styczniu 2017 na projekt z PRI.
 
